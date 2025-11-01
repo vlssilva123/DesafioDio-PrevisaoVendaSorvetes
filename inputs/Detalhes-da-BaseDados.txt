@@ -1,8 +1,8 @@
 O input deste projeto é um arquivo csv contendo:
 
-Dia [data da venda];
-Temperatura [temperatura média aferida naquele dia];
-Qtde Vendida [quantidade vendida de sorvetes naquele dia].
+- Dia [data da venda];
+- Temperatura [temperatura média aferida naquele dia];
+- Qtde Vendida [quantidade vendida de sorvetes naquele dia].
 
 O objetivo do experimento é criar um modelo para prever a venda de sorvetes
 A base de dados contém as vendas diárias de 01/01/2024 a 18/07/2025.
